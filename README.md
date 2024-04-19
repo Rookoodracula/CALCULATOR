@@ -9,11 +9,11 @@
 
 ## :star2: About the Project
 
-## defining all mathematical operations
+## Defining all mathematical operations
 
 HERE WE HAVE DEFINED MATHEMATICAL OPERATIONS (+, -, *, /, **, %, //, Sqrt)
 
-## :star3: Defining CALCULATOR Function
+## Defining CALCULATOR Function
 
 WE HAVE TWO INPUTS
 THEN USER WILL BE ASKED TO PICK UP ANY OPERATIONS TO BE PERFORMED ON TWO INPUTS
